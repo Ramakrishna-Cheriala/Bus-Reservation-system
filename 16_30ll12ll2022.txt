@@ -1,0 +1,27 @@
+**
+Ticket_ID:3468
+		->RECORD_DELETED
+**
+Ticket_ID:3958
+Name_of_the_passenger:
+5
+Age:5
+Phone_number:5
+Seat_number:5
+Bus_ID:3
+**
+**
+Ticket_ID:3984
+		->RECORD_DELETED
+**
+Ticket_ID:4601
+Name_of_the_passenger:
+10
+Age:10
+Phone_number:10
+Seat_number:10
+Bus_ID:16
+**
+**
+Ticket_ID:4617
+		->RECORD_DELETED

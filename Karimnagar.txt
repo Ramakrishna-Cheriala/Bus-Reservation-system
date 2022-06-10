@@ -1,0 +1,48 @@
+Hyderabad
+From=Karimnagar
+To=Hyderabad
+Type=AC 	  
+Bus ID=31
+Driver Name=Srujan   
+Conductor Name=Naga    
+**************************
+Warangal
+From=Karimnagar
+To=Warangal
+Type=AC      
+Bus ID=32
+Driver Name=Venkat
+Conductor Name=Srikar    
+*************************
+Adilabad
+From=Karimnagar
+To=Adilabad
+Type=AC
+Bus ID=33  
+Driver Name=Aravind
+Conductor Name=Sathwik     
+*************************
+Nizambad
+From=Karimnagar
+To=Nizambad
+Type=AC
+Bus ID=34
+Driver Name=Srinivas   
+Conductor Name=Charan    
+************************
+Khammam
+From=Karimnagar
+To=Khammam
+Type=AC      
+Bus ID=35 
+Driver Name=Naveen   
+Conductor Name=Hemanth    
+**********************
+Nalgonda
+From=Karimnagar
+To=Nalgonda   
+Type=AC      
+Bus ID=36 
+Driver Name=Kranthi    
+Conductor Name=Ajith     
+*********************

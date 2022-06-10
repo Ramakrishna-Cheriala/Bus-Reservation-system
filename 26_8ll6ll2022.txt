@@ -1,0 +1,9 @@
+
+***********
+Ticket_ID: 9718
+Name_of_the_passenger: rew
+Age: 23
+Phone_number: 123456
+Seat_number:23
+Bus_ID:26
+***********

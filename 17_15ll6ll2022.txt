@@ -1,0 +1,36 @@
+
+***********
+Ticket_ID:4208
+Name_of_the_passenger: 1
+Age:1
+Phone_number:1
+Seat_number:1
+Bus_ID:17
+***********
+
+***********
+Ticket_ID:4228
+Name_of_the_passenger: 5
+Age:5
+Phone_number:5
+Seat_number:5
+Bus_ID:17
+***********
+
+***********
+Ticket_ID:4250
+Name_of_the_passenger: 19
+Age:19
+Phone_number:19
+Seat_number:19
+Bus_ID:17
+***********
+
+***********
+Ticket_ID:4277
+Name_of_the_passenger: 26
+Age:26
+Phone_number:26
+Seat_number:26
+Bus_ID:17
+***********

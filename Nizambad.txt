@@ -1,0 +1,48 @@
+Hyderabad
+From=Nizambad
+To=Hyderabad
+Type=AC 	  
+Bus ID=19
+Driver Name=Riyan   
+Conductor Name=Rahul    
+**************************
+Warangal
+From=Nizambad
+To=Warangal
+Type=AC      
+Bus ID=20
+Driver Name=Hruday
+Conductor Name=Adarsh    
+*************************
+Adilabad
+From=Nizambad
+To=Adilabad
+Type=AC
+Bus ID=21  
+Driver Name=Joseph
+Conductor Name=Prudhvi     
+*************************
+Khammam
+From=Nizambad
+To=Khammam
+Type=AC
+Bus ID=22
+Driver Name=Chirstopher   
+Conductor Name=Ishan      
+************************
+Karimnagar
+From=Nizambad
+To=Karimnagar 
+Type=AC      
+Bus ID=23 
+Driver Name=Sunil   
+Conductor Name=Achuyth    
+**********************
+Nalgonda
+From=Nizambad
+To=Nalgonda   
+Type=AC      
+Bus ID=24 
+Driver Name=Austin    
+Conductor Name=Vineeth     
+*********************

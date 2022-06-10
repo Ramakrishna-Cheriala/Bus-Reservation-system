@@ -1,0 +1,18 @@
+
+***********
+Ticket_ID: 9411
+Name_of_the_passenger: Pavan
+Age: 20
+Phone_number: 9177553430
+Seat_number:21
+Bus_ID:22
+***********
+
+***********
+Ticket_ID: 9460
+Name_of_the_passenger: ram
+Age: 23
+Phone_number: 9177553430
+Seat_number:22
+Bus_ID:22
+***********

@@ -1,0 +1,45 @@
+
+***********
+Ticket_ID: 3387
+Name_of_the_passenger: 1
+Age: 1
+Phone_number: 1
+Seat_number:1
+Bus_ID:1
+***********
+
+***********
+Ticket_ID: 3400
+Name_of_the_passenger: 5
+Age: 5
+Phone_number: 5
+Seat_number:5
+Bus_ID:1
+***********
+
+***********
+Ticket_ID: 3410
+Name_of_the_passenger: 10
+Age: 10
+Phone_number: 10
+Seat_number:10
+Bus_ID:1
+***********
+
+***********
+Ticket_ID: 3426
+Name_of_the_passenger: 15
+Age: 1
+Phone_number: 15
+Seat_number:15
+Bus_ID:1
+***********
+
+***********
+Ticket_ID: 3613
+Name_of_the_passenger: 25
+Age: 25
+Phone_number: 25
+Seat_number:25
+Bus_ID:1
+***********

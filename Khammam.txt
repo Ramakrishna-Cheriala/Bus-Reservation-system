@@ -1,0 +1,48 @@
+Hyderabad
+From=Khammam
+To=Hyderabad
+Type=AC 	  
+Bus ID=25
+Driver Name=Sandeep   
+Conductor Name=Vishwanath    
+**************************
+Warangal
+From=Khammam
+To=Warangal
+Type=AC      
+Bus ID=26
+Driver Name=Teja
+Conductor Name=Adam    
+*************************
+Adilabad
+From=Khammam
+To=Adilabad
+Type=AC
+Bus ID=27  
+Driver Name=Jame
+Conductor Name=Chandu     
+*************************
+Nizambad
+From=Khammam
+To=Nizambad
+Type=AC
+Bus ID=28
+Driver Name=Daniel   
+Conductor Name=Kishan      
+************************
+Karimnagar
+From=Khammam
+To=Karimnagar 
+Type=AC      
+Bus ID=29 
+Driver Name=Prakash   
+Conductor Name=Shiva    
+**********************
+Nalgonda
+From=Khammam
+To=Nalgonda   
+Type=AC      
+Bus ID=30 
+Driver Name=Lebron    
+Conductor Name=Stephen     
+*********************

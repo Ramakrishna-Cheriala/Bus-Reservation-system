@@ -1,0 +1,48 @@
+Warangal
+From=Hyderabad
+To=Warangal
+Type=AC 	  
+Bus ID=1
+Driver Name=Pavan   
+Conductor Name=Suresh    
+**************************
+Nizambad
+From=Hyderabad
+To=Nizambad
+Type=AC      
+Bus ID=2  
+Driver Name=Rameh
+Conductor Name=Harsha    
+*************************
+Adilabad
+From=Hyderabad
+To=Adilabad
+Type=AC
+Bus ID=3  
+Driver Name=Saarthak
+Conductor Name=Akhil     
+*************************
+Khammam
+From=Hyderabad
+To=Khammam
+Type=AC
+Bus ID=4
+Driver Name=Suhas   
+Conductor Name=Ramu      
+************************
+Karimnagar
+From=Hyderabad
+To=Karimnagar 
+Type=AC      
+Bus ID=5 
+Driver Name=Vardhan   
+Conductor Name=Mithun    
+**********************
+Nalgonda
+From=Hyderabad
+To=Nalgonda   
+Type=AC      
+Bus ID=6 
+Driver Name=Dwayne    
+Conductor Name=John     
+*********************

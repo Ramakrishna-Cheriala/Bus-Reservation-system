@@ -1,0 +1,48 @@
+Hyderabad
+From=Nalgonda
+To=Hyderabad
+Type=AC 	  
+Bus ID=37
+Driver Name=Nitjesh   
+Conductor Name=Manoj    
+**************************
+Warangal
+From=Nalgonda
+To=Warangal
+Type=AC      
+Bus ID=38
+Driver Name=Praneeth
+Conductor Name=Srikanth    
+*************************
+Adilabad
+From=Nalgonda
+To=Adilabad
+Type=AC
+Bus ID=39  
+Driver Name=Shaik
+Conductor Name=Ajay     
+*************************
+Nizambad
+From=Nalgonda
+To=Nizambad
+Type=AC
+Bus ID=40
+Driver Name=Jagadish   
+Conductor Name=Jeevan    
+************************
+Khammam
+From=Nalgonda
+To=Khammam
+Type=AC      
+Bus ID=41 
+Driver Name=Abhinav  
+Conductor Name=Abhishek    
+**********************
+Karimnagar
+From=Nalgonda
+To=Karimnagar   
+Type=AC      
+Bus ID=42 
+Driver Name=Keerthi    
+Conductor Name=Keerthan     
+*********************

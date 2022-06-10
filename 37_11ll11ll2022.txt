@@ -1,0 +1,9 @@
+
+***********
+Ticket_ID: 9855
+Name_of_the_passenger: uhb
+Age: 12
+Phone_number: 234
+Seat_number:23
+Bus_ID:37
+***********

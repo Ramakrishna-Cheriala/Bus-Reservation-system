@@ -1,0 +1,14 @@
+0
+FROM:Hyderabad
+TO:Warangal
+DRIVER NAME:ramakrishna
+TYPE:AC
+BUS ID:0
+*********
+1
+FROM:Hyderabad
+TO:Warangal
+DRIVER NAME:ram
+TYPE:AC
+BUS ID:0
+*********

@@ -1,0 +1,9 @@
+
+***********
+Ticket_ID:3601
+Name_of_the_passenger:1
+Age:1
+Phone_number:1
+Seat_number:1
+Bus_ID:1
+***********

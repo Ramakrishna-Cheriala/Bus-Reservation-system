@@ -1,0 +1,36 @@
+
+***********
+Ticket_ID:6520
+Name_of_the_passenger: 1
+Age:1
+Phone_number:1
+Seat_number:1
+Bus_ID:4
+***********
+
+***********
+Ticket_ID:6536
+Name_of_the_passenger: 2
+Age:2
+Phone_number:2
+Seat_number:2
+Bus_ID:4
+***********
+
+***********
+Ticket_ID:6553
+Name_of_the_passenger: 3
+Age:3
+Phone_number:3
+Seat_number:3
+Bus_ID:4
+***********
+
+***********
+Ticket_ID:6563
+Name_of_the_passenger: 4
+Age:4
+Phone_number:4
+Seat_number:4
+Bus_ID:4
+***********
